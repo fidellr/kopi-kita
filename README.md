@@ -6,7 +6,7 @@ A smart customer relationship management app for Mimi's coffee shop, **Kopi Kita
 
 ## 🚀 Live Demo
 
-- **App:** [https://kopi-kita.vercel.app](https://kopi-kita.vercel.app)
+- **App:** [https://kopi-kita-gamma.vercel.app](https://kopi-kita-gamma.vercel.app)
 - **Demo login:** `mimi@kopikita.id` / `kopikita123`
 
 ---
