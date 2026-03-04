@@ -39,7 +39,7 @@ export async function POST() {
     });
 
     const completion = await openrouter.chat.completions.create({
-      model: MODEL,
+      model: MODEL as string,
       max_tokens: 2000,
       temperature: 0.7,
       messages: [
