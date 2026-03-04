@@ -57,7 +57,11 @@ kopi-kita/
 │   ├── login/               # Login page
 │   └── layout.tsx
 ├── components/
-│   └── layout/Sidebar.tsx
+│   └── layout/
+|   └── customers/
+|   └── chat/
+|   └── promos/
+|   └── ui/
 ├── lib/
 │   ├── prisma.ts            # Prisma singleton
 │   ├── prompts.ts           # 🔑 AI prompts (documented)
